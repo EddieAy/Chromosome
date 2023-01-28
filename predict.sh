@@ -1,0 +1,1 @@
+python predict.py -w '/home/kemosheng/code/zxx/pili_learn/resnet_101_tensorborad/weights/model-8.pth' -im '/home/kemosheng/code/zxx/pili_learn/data/test/c7/00026.png'
